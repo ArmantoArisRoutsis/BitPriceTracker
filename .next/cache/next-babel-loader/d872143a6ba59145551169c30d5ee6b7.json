@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nexport default (() => /*#__PURE__*/_jsx(\"div\", {\n  children: \"Hello next js\"\n}));","map":null,"metadata":{},"sourceType":"module"}
